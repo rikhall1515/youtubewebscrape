@@ -10,8 +10,8 @@ Stage 3: Add an interface to the dictionary.
 
 Possible future: 
 
-    - Add a database.\n
+    - Add a database.
 
-    - GUI.\n
+    - GUI.
 
-    - Collection of other metrics.\n
+    - Collection of other metrics.
