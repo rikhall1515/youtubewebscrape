@@ -39,7 +39,7 @@ api_key = "AIzaSyCQvy487SXrJkKKzfTjArz0iBIpsCcqKeo"
 direct_path_to_file = "C:\\Users\\Rikard Hallberg\\Desktop\\Workspace\\Python files\\Data science\\YoutubeLinks.txt"
 helper = Helper()
 
-#Step 0: get the videos into the youtubelinks.txt file, automating the whole process
+#Step 0: get the videos into the youtubelinks.txt file, automating the whole process(WIP)
 search_results = urllib.request.urlopen()
 
 #Step 1: extract from target file where all youtube links are
